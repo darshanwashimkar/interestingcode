@@ -1,3 +1,4 @@
+/* I found this code on https://www.quora.com/What-is-the-shortest-and-most-effective-code-ever-written/answer/Rahul-Kumar-6717?srid=nhQQ */
 #include <stdio.h>
 int main()
 {
